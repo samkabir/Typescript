@@ -51,4 +51,4 @@ let x:number = 0;
 ```
 In this case above, Typescript understands that 'x' is a number without me needing to write let x:number; 
 
-Type Inference helps us by reducing boilerplate code, it makes the code cleaner and easier to write, it improves the developer experience and it helps catch type-related errors at compile time, improving code safety.
+Type Inference helps us by reducing boilerplate code, it makes the code cleaner and easier to write, it improves the developer experience and it helps catch type-related errors at compile time, improving our code safety.
