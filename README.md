@@ -1,4 +1,4 @@
-# Hello! Welcome to my very basic typescript tryout repo. Here I am going to discuss about two topics in typescript that I found interesting in all the things I have learned so far about Typescript.
+### Hello! Welcome to my very basic typescript tryout repo. Here I am going to discuss about two topics in typescript that I found interesting in all the things I have learned so far about Typescript.
 
 ##  1. How does TypeScript help in improving code quality and project maintainability?
 
